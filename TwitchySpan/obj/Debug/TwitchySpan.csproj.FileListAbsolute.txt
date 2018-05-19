@@ -1,0 +1,7 @@
+c:\users\ntorr\Source\Repos\TwitchySpan\TwitchySpan\bin\Debug\TwitchySpan.exe.config
+c:\users\ntorr\Source\Repos\TwitchySpan\TwitchySpan\bin\Debug\TwitchySpan.exe
+c:\users\ntorr\Source\Repos\TwitchySpan\TwitchySpan\bin\Debug\TwitchySpan.pdb
+c:\users\ntorr\Source\Repos\TwitchySpan\TwitchySpan\obj\Debug\TwitchySpan.csprojAssemblyReference.cache
+c:\users\ntorr\Source\Repos\TwitchySpan\TwitchySpan\obj\Debug\TwitchySpan.csproj.CoreCompileInputs.cache
+c:\users\ntorr\Source\Repos\TwitchySpan\TwitchySpan\obj\Debug\TwitchySpan.exe
+c:\users\ntorr\Source\Repos\TwitchySpan\TwitchySpan\obj\Debug\TwitchySpan.pdb
